@@ -8,8 +8,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 
 # LinkedIn Credentials
-LINKEDIN_EMAIL = "imanujrai7@gmail.com"
-LINKEDIN_PASSWORD = "iamManujrai@7"
+LINKEDIN_EMAIL = "email_id"
+LINKEDIN_PASSWORD = "password"
 
 # Setup WebDriver
 options = Options()
